@@ -195,7 +195,7 @@ h4.widget-title {
   font-size: 16px;
   font-family: 'robotobold';
   text-transform: uppercase;
-  margin-bottom: 40px; }
+  margin-bottom: 20px; }
 
 hr {
   position: relative;
@@ -208,7 +208,7 @@ hr {
   margin-bottom: 0; }
 
 .page-section {
-  padding-top: 80px; }
+  padding-top: 40px; }
 
 /*---------------------------------------------------------
  3. Header
@@ -371,7 +371,7 @@ h3.profile-title {
 .projects-holder {
   margin-right: 0;
   margin-left: 0;
-  margin-top: 40px; }
+  margin-top: 25px; }
   .projects-holder .col-md-4,
   .projects-holder .col-md-4 {
     padding-right: 1px;
@@ -424,7 +424,7 @@ h3.profile-title {
 .resume-holder {
   margin-right: 0;
   margin-left: 0;
-  margin-top: 40px; }
+  margin-top: 25px; }
   .resume-holder .col-md-4,
   .resume-holder .col-md-4 {
     padding-right: 1px;
