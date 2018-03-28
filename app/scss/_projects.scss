@@ -33,7 +33,7 @@
 	height: 100%;
 	top: 40px;
 	left: 0;
-	background: rgba($black, 0.9);
+	background: linear-gradient(transparent, black);
 	opacity: 0;
 	visibility: 0;
 	@include transition(all, 200ms, linear);

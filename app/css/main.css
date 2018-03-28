@@ -396,7 +396,7 @@ h3.profile-title {
   height: 100%;
   top: 40px;
   left: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: linear-gradient(transparent, black);
   opacity: 0;
   visibility: 0;
   -webkit-transition: all 200ms linear;
@@ -449,7 +449,7 @@ h3.profile-title {
   height: 100%;
   top: 40px;
   left: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: linear-gradient(transparent, black);
   opacity: 0;
   visibility: 0;
   -webkit-transition: all 200ms linear;
